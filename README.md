@@ -46,7 +46,7 @@ Before running the codes, it is necessary to consolidate the images into the cor
 ```
 Explanatory note: As the original volume of images is high, the files were divided into two parts (image_part1 and image_part2). You must extract the contents of both and merge everything inside the tiles/image/ folder.
 
-### 3. 3. Test Configuration and Execution
+### 3. Test Configuration and Execution
 The experiments were structured in Jupyter Notebook format. To execute the trainings, open the notebook of the desired network and navigate to the last code block.
 
 There you will find the global variables that control the execution. You can adjust them according to your testing needs:
